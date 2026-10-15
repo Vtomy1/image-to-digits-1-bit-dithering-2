@@ -1,0 +1,6 @@
+{
+  "name": "Image to Digits 1-Bit Dither & ASCII Studio",
+  "description": "Convert images into custom 1-bit dithered digits and ASCII art with customizable height, width, Bayer/Atkinson/Floyd-Steinberg dithering algorithms, and instant TXT download.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
